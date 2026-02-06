@@ -1,0 +1,23 @@
+{
+  "name": "kingdoms-autoresponder",
+  "version": "1.0.0",
+  "description": "AutoResponder bot for Kingdoms game",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "body-parser": "^1.20.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "keywords": ["autoresponder", "messenger", "bot", "kingdoms"],
+  "author": "",
+  "license": "MIT"
+}

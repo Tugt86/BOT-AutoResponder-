@@ -1,0 +1,80 @@
+{
+  "POP": {
+    "id": "POP",
+    "nickname": "ماريو",
+    "kingdom": "ازمار",
+    "rank": "مجند",
+    "coins": 812,
+    "health": 100,
+    "energy": 100,
+    "warnings": 0,
+    "notifications": [],
+    "registeredAt": "2026-02-05T15:43:59.216Z",
+    "inviter": null,
+    "inventory": {
+      "level": 1,
+      "capacity": 5,
+      "items": [
+        "بطاقة تغيير اللقب"
+      ]
+    }
+  },
+  "POP0": {
+    "id": "POP0",
+    "nickname": "ماريو الثاني",
+    "kingdom": "ازمار",
+    "rank": "مجند",
+    "coins": 0,
+    "health": 100,
+    "energy": 100,
+    "warnings": 0,
+    "notifications": [],
+    "registeredAt": "2026-02-05T15:45:46.152Z",
+    "inviter": "POP",
+    "lastGift": "2026-02-05T16:07:04.183Z"
+  },
+  "A": {
+    "id": "A",
+    "nickname": "قريدس",
+    "kingdom": "ازمار",
+    "rank": "مجند",
+    "coins": 1794297,
+    "health": 100,
+    "energy": 100,
+    "warnings": 0,
+    "notifications": [],
+    "registeredAt": "2026-02-05T21:18:51.367Z",
+    "inviter": null,
+    "lastGift": "2026-02-05T21:26:57.778Z",
+    "giftMultiplier": false,
+    "coinTrees": [],
+    "inventory": {
+      "level": 1,
+      "capacity": 5,
+      "items": [
+        "مضاعف الهدية"
+      ]
+    }
+  },
+  "d": {
+    "id": "d",
+    "nickname": ".ديفالا",
+    "kingdom": "ديفالا",
+    "rank": "مجند",
+    "coins": 9,
+    "health": 100,
+    "energy": 100,
+    "warnings": 0,
+    "notifications": [],
+    "registeredAt": "2026-02-05T21:29:54.155Z",
+    "inviter": null,
+    "lastGift": "2026-02-05T22:05:53.249Z",
+    "giftMultiplier": false,
+    "coinTrees": [],
+    "inventory": {
+      "level": 1,
+      "capacity": 5,
+      "items": []
+    }
+  }
+}

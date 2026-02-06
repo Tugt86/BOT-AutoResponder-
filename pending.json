@@ -1,0 +1,41 @@
+{
+  "Zakaria Haddouda": {
+    "kingdom": "ازمار",
+    "step": "welcome_sent",
+    "welcomeSent": true
+  },
+  "من POP": {
+    "kingdom": "ازمار",
+    "step": "welcome_sent",
+    "welcomeSent": true
+  },
+  "POP": {
+    "usingItem": {
+      "itemName": "بطاقة تغيير اللقب",
+      "inputType": "new_nickname",
+      "newNickname": "هه"
+    }
+  },
+  "POP0": {},
+  "Kanato": {
+    "kingdom": "فالوريا",
+    "step": "welcome_sent",
+    "welcomeSent": true
+  },
+  "A": {
+    "usingItem": {
+      "itemName": "رادار كشف",
+      "inputType": "radar_kingdom_selection",
+      "kingdomList": [
+        "فالوريا",
+        "ديفالا"
+      ]
+    }
+  },
+  "d": {},
+  "D": {
+    "kingdom": "ازمار",
+    "step": "welcome_sent",
+    "welcomeSent": true
+  }
+}
